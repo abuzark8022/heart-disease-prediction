@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Live Cloud Deployment
-- **Streamlit Community Cloud Live App:** [https://heart-disease-predictor-aic354.streamlit.app/](https://heart-disease-predictor-aic354.streamlit.app/)
+- **Streamlit Community Cloud Live App:** [https://heart-disease-prediction-rhpxhnfdapyrd98rwlxxpv.streamlit.app/](https://heart-disease-prediction-rhpxhnfdapyrd98rwlxxpv.streamlit.app/)
 
 ---
 
